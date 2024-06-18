@@ -740,3 +740,5 @@ repositories:
 - intel-innersource/applications.validation.platforms.ev-ci-scripts
 - intel-innersource/applications.validation.platforms.ev-tools-ui
 - intel-innersource/applications.validation.platforms.ev-utilities
+- intel-sandbox/fake
+- intel-innersource/fake
