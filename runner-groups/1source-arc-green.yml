@@ -742,3 +742,4 @@ repositories:
 - intel-innersource/applications.validation.platforms.ev-utilities
 - intel-sandbox/fake
 - intel-innersource/fake
+- intel-innersource/my-test-repo
